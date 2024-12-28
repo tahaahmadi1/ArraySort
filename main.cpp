@@ -11,5 +11,6 @@ int main(){
         cin >> e;
         arr[i] = e;
     }
+    cout << "hello world" << endl;
     SortAndPrint(arr,size);
 }
